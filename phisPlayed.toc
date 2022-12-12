@@ -1,0 +1,8 @@
+## Interface: 100002
+## Title: phisPlayed
+## Author: phistoh
+## Version: 1.0
+## Notes: Provides a command to display the cumulative playtime across all characters
+## SavedVariables: phisPlayedSavedVars
+
+phisPlayed.lua
