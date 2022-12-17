@@ -31,7 +31,7 @@ end
 function phis.getTimePlayed()
     DEFAULT_CHAT_FRAME:UnregisterEvent("TIME_PLAYED_MSG")
     RequestTimePlayed()
-    C_Timer.After(1, function()
+    C_Timer.After(3, function()
         DEFAULT_CHAT_FRAME:RegisterEvent("TIME_PLAYED_MSG")
     end)
 end

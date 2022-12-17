@@ -3,6 +3,8 @@
 ## Author: phistoh
 ## Version: 1.0
 ## Notes: Provides a command to display the cumulative playtime across all characters
+## X-Curse-Project-ID: 739969
+## X-WoWI-ID: 26507
 ## SavedVariables: phisPlayedSavedVars
 
 phisPlayed.lua

@@ -7,6 +7,3 @@ This addon stores the playtime automatically. You can print the cumulative playt
 ## File Description
 - **phisPlayed.lua** contains the main code
 - **phisPlayed.toc** is the standard WoW table-of-contents file containing addon information
-
-## Changes
-- **1.0**: Initial upload
