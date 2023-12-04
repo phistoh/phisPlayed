@@ -1,8 +1,9 @@
-## Interface: 100005
+## Interface: 100200
 ## Title: phisPlayed
 ## Author: phistoh
-## Version: 1.0.2
+## Version: 1.0.3
 ## Notes: Provides a command to display the cumulative playtime across all characters
+## IconTexture: 134376
 ## X-Curse-Project-ID: 739969
 ## X-WoWI-ID: 26507
 ## SavedVariables: phisPlayedSavedVars
