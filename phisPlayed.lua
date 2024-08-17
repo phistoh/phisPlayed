@@ -9,7 +9,7 @@ local phisFrame = CreateFrame('Frame', addonName..'CheckFrame', UIParent)
 
 -- prints with the addon name as prefix
 function phis.print(str)
-	print('|cFFDED868'..GetAddOnMetadata(addonName,'Title')..' v'..GetAddOnMetadata(addonName,'Version')..':|r '..str)
+	print('|cFFDED868'..C_AddOns.GetAddOnMetadata(addonName,'Title')..' v'..C_AddOns.GetAddOnMetadata(addonName,'Version')..':|r '..str)
 end
 
 -- converts seconds to days, hours, minutes, seconds

@@ -1,3 +1,7 @@
+## v1.0.7
+- Update for The War Within (11.0.2) (new interface number)
+- Changed deprecated function `GetAddOnMetadata` to `C_AddOns.GetAddOnMetadata`
+
 ## v1.0.6
 - Update for The War Within (11.0.0) (new interface number)
 
